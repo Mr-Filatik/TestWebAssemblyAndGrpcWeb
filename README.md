@@ -199,6 +199,12 @@ The minimum set for the application to work is configured.
 
 ## Publication
 
+There are no additional requirements for publishing this decision. On any server that supports ASP.NET, the project works immediately after publication.
+
+List of verified hosts:
+1. [FreeASPHosting.net](https://freeasphosting.net/)
+2. [Somee.com](https://somee.com/)
+
 ## Sources
 
 The main information is taken from this [site](https://azure.github.io/AppService/2021/03/15/How-to-use-gRPC-Web-with-Blazor-WebAssembly-on-App-Service.html#configure-grpc-web-in-the-server) and supplemented with changes.
